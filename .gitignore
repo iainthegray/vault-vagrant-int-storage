@@ -1,0 +1,6 @@
+.vagrant
+.vagrant/*
+vault
+consul
+.git
+licence.txt
